@@ -4,3 +4,11 @@
   box-sizing: border-box;
   font-family: "Nunito", sans-serif;
 }
+
+header {
+  height: 10vh;
+}
+
+header nav {
+  display: flex;
+}

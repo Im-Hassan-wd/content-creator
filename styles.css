@@ -12,6 +12,7 @@ header {
 header .logo {
   font-size: 1.5rem;
   font-weight: bold;
+  color: #f6511e;
 }
 
 header nav {
@@ -29,6 +30,10 @@ nav ul {
 ul a {
   text-decoration: none;
   color: #333;
+}
+
+ul a:hover {
+  color: #f6511e;
 }
 
 .container {

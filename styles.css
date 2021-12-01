@@ -43,6 +43,12 @@ ul a:hover {
 .header-link {
   background: #f6511e;
   color: #fff;
+  width: 80px;
+  height: 30px;
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {

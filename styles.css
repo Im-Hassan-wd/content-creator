@@ -66,7 +66,9 @@ ul a:hover {
   margin: 20px auto;
 }
 
-.navigation li {
-  list-style: none;
+.navigation {
   margin: 2% 0;
+}
+.navigation .blog-navigation {
+  color: #f6511e;
 }

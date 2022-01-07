@@ -102,3 +102,15 @@ ul a:hover {
   color: rgb(87, 86, 86);
   font-weight: bold;
 }
+
+/* footer section */
+footer {
+  padding: 50px;
+  background: #04142a;
+  color: #ffff;
+}
+
+footer .container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}

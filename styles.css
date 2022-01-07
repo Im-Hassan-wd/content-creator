@@ -7,7 +7,7 @@
 
 body {
   background: linear-gradient(180deg, #ead7bb 0%, #f3ece3 50%);
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 h1 {
@@ -113,4 +113,13 @@ footer {
 footer .container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+}
+
+footer li,
+footer ul {
+  list-style: none;
+}
+
+footer a {
+  color: #ffff;
 }
